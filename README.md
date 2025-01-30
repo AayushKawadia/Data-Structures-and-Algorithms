@@ -9,11 +9,14 @@ This repository is designed for beginners who want to start learning **Data Stru
 - 💻 **Practice Problems**: Step-by-step solutions to beginner-friendly coding problems from platforms like LeetCode and GeeksForGeeks.
 - 🔥 **Daily Challenges**: Small exercises to build consistency and confidence in coding.
 
-## 📅 Progress Tracking
+## 🚀 Current Progress
+I am currently focusing on solving LeetCode Problems to practice and refine my problem-solving skills.
 
-| Day | Topic Covered                |  Solutions             |
-| --- | ---------------------------- |  --------------------- |
-| 1   | Basics                       |  [Code](https://github.com/AayushKawadia/Data-Structures-and-Algorithms/tree/main/Basics) |
+Topics Under Progress:
+### 🔎 Basics
+	•	Convert Decimal Number to Binary Number
+	•	Convert Binary Number to Decimal Number
+ 	•	Patterns
 
 
 ## 🚀 How to Use This Repo?
@@ -40,7 +43,4 @@ This repository is designed for beginners who want to start learning **Data Stru
 
 Feel free to fork the repository, raise issues, or suggest improvements! Let's grow together. 😊
 
-## 📜 License
-
-This repository is for learning purposes. Feel free to use the resources and contribute! 🚀
 
