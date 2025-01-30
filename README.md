@@ -10,7 +10,7 @@ This repository is designed for beginners who want to start learning **Data Stru
 - 🔥 **Daily Challenges**: Small exercises to build consistency and confidence in coding.
 
 ## 🚀 Current Progress
-I am currently focusing on solving LeetCode Problems to practice and refine my problem-solving skills.
+I am currently focusing on making good basics foundation to practice and refine my problem-solving skills.
 
 Topics Under Progress:
 ### 🔎 Basics
